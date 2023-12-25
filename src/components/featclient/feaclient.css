@@ -1,0 +1,31 @@
+.about_feat {
+  padding-bottom: 128px;
+}
+.feat_mossion_text {
+  width: 50%;
+}
+.feat_mossion_text h6 {
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 40px;
+}
+.feat_mossion_text h2 {
+  font-size: 38px;
+  color: #232536;
+  font-weight: 600;
+  padding: 16px 0;
+}
+.feat_mossion_text p{
+    font-size: 16px;
+    font-weight: 600;
+    color: #282938;
+    opacity: .6;
+}
+.feat_mossion_img {
+  width: 50%;
+  padding-left: 80px;
+}
+.feat_mossion_img img{
+  width: 100%;
+}

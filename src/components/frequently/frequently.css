@@ -1,0 +1,59 @@
+.frequently {
+  padding: 128px 0;
+}
+.left_text {
+  width: 27%;
+}
+.left_text h2 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #282938;
+}
+.left_text p {
+  color: #2405f2;
+  font-size: 18px;
+  font-weight: 500;
+}
+.right_text {
+  width: 73%;
+  padding-left: 106px;
+}
+.right_text_items {
+  display: flex;
+  border-bottom: 2px solid #ececf1;
+  padding: 32px 0;
+  position: relative;
+}
+.right_text_items span {
+  color: #2405f2;
+  font-size: 24px;
+  font-weight: 500;
+  padding-right: 59px;
+}
+.right_text_items .one h4 {
+  color: #282938;
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 16px;
+}
+.right_text_items p {
+  color: #282938;
+  font-size: 18px;
+  font-weight: 500;
+  padding-right: 89px;
+}
+.right_text_items a {
+  color: #282938;
+  opacity: 0.7;
+  font-size: 16px;
+}
+.right_text_items h4 {
+  color: #282938;
+  font-size: 24px;
+  font-weight: 500;
+}
+.right_text_items a {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+}

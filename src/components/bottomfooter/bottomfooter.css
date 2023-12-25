@@ -1,0 +1,24 @@
+.bottomfooter {
+  padding: 32px 0;
+}
+.bottomfooter_left {
+  width: 30%;
+}
+.bottomfooter_left p {
+  color: #282938;
+  font-size: 16px;
+  font-weight: 500;
+}
+.bottomfooter_right {
+  width: 70%;
+}
+.bottomfooter_right ul{
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 32px;
+}
+.bottomfooter_right ul li a{
+    color: #282938;
+    font-size: 16px;
+    font-weight: 500;
+}

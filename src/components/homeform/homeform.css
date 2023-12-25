@@ -1,0 +1,81 @@
+.homeform {
+  padding-bottom: 128px;
+}
+.homeform_left {
+  width: 50%;
+  height: 690px;
+  position: relative;
+}
+.homeform_left img {
+  width: 100%;
+  height: 100%;
+}
+.homeform_left .ovarly {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(28, 30, 83, 0.5);
+  z-index: 1;
+}
+.homeform_left h3 {
+  color: #fff;
+  font-size: 54px;
+  font-weight: 600;
+  padding: 96px 60px 0 60px;
+}
+.homeform_left p {
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  padding: 24px 60px;
+}
+.homeform_right {
+  width: 50%;
+  background: #1c1e53;
+  padding: 96px 65px 0 65px;
+}
+.homeform_right h3 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 500;
+}
+.homeform_right p {
+  font-size: 16px;
+  color: #f4f6fc;
+  font-weight: 500;
+  padding-bottom: 40px;
+}
+.homeform_right input {
+  background: #1c1e53;
+  border: 1.5px solid rgba(255, 255, 255, 0.05);
+  padding: 18px 32px;
+  margin-bottom: 16px;
+  color: #f4f6fc;
+  font-size: 16px;
+  width: 432px;
+  height: 64px;
+}
+.homeform_right button {
+  color: #1b1c2b;
+  padding: 16px 150px;
+  font-size: 18px;
+  font-weight: 600;
+  background: #fcd980;
+  border-radius: 41px;
+  margin-bottom: 28px;
+}
+.homeform_right a {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 0 120px;
+}
+.homeform_right i {
+  font-size: 18px;
+  padding-left: 10px;
+}

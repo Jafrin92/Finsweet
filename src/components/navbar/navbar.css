@@ -1,0 +1,43 @@
+.manu {
+  height: 92px;
+  background: #1c1e53;
+}
+.logo {
+  width: 20%;
+  padding: 30px 0;
+}
+.main_manu {
+  width: 80%;
+  display: flex;
+  justify-content: flex-end;
+}
+.main_manu ul {
+  display: flex;
+  column-gap: 32px;
+  padding-top: 32px;
+}
+.main_manu a {
+  color: #bbbbcb;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all linear .5s;
+  -webkit-transition: all linear .5s;
+  -moz-transition: all linear .5s;
+  -ms-transition: all linear .5s;
+  -o-transition: all linear .5s;
+}
+.main_manu a:hover{
+    color: #fff;
+}
+.nav_btn {
+  margin: 32px 0 0 48px;
+}
+.nav_btn a {
+  padding: 16px 48px;
+  border: 1px solid #bbbbcb;
+  border-radius: 41px;
+  -webkit-border-radius: 41px;
+  -moz-border-radius: 41px;
+  -ms-border-radius: 41px;
+  -o-border-radius: 41px;
+}
